@@ -19,6 +19,5 @@ iuap应用平台的产品特性：
 7）提供业务日志的记录和查看，提供安全日志的记录和查看。
 
 ![](/articles/application/1-/images/image2.png)
-
+ 
 应用平台应用架构图
-
