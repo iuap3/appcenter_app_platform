@@ -1,6 +1,6 @@
 # 互联网应用平台
 
-文案风格
+## 文案风格
 
 1、一定多检查，确保没有错别字。
 
@@ -10,18 +10,18 @@
 
 4、记住，如果你写了一条文案觉得非常聪明非常好笑，很可能需要停下来想一下用户是否能理解。 
 
-目录要求(实例)
+## 目录要求(实例)
 
 举例来说：
 
-/* [产品介绍](articles/application/1-/prod_intro.md)
-    /* [概述](articles/application/1-/gai_shu.md)
-    /* [功能说明](articles/application/1-/functions.md)
-    /* [产品价值](articles/application/1-/values.md)
-/* [管理中心](articles/application/2-/manage_center.md)
-    /* [功能介绍](articles/application/2-/center_functions.md)
-    /* [界面说明](articles/application/2-/interface.md)
-    /* [功能分组](articles/application/2-/function_group.md)
+* [产品介绍](articles/application/1-/prod_intro.md)
+    * [概述](articles/application/1-/gai_shu.md)
+    * [功能说明](articles/application/1-/functions.md)
+    * [产品价值](articles/application/1-/values.md)
+* [管理中心](articles/application/2-/manage_center.md)
+    * [功能介绍](articles/application/2-/center_functions.md)
+    * [界面说明](articles/application/2-/interface.md)
+    * [功能分组](articles/application/2-/function_group.md)
 
   
 1、”产品介绍“、”管理中心“是一级目录，其余为二级目录。要求一级目录无内容，仅做目录。
