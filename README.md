@@ -14,23 +14,8 @@
 
 举例来说：
 
-\ * [产品介绍](articles/application/1-/prod_intro.md)
-
-    \ * [概述](articles/application/1-/gai_shu.md)
+![](/articles/application/image1.png)
     
-    \ * [功能说明](articles/application/1-/functions.md)
-    
-    \ * [产品价值](articles/application/1-/values.md)
-    
-\ * [管理中心](articles/application/2-/manage_center.md)
-
-    \ * [功能介绍](articles/application/2-/center_functions.md)
-    
-    \ * [界面说明](articles/application/2-/interface.md)
-    
-    \ * [功能分组](articles/application/2-/function_group.md)
-
-  
 1、”产品介绍“、”管理中心“是一级目录，其余为二级目录。要求一级目录无内容，仅做目录。
 
 2、此目录必须在Summary文件中。所有MD文件是UTF-8编码。
