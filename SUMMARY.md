@@ -1,6 +1,5 @@
-# Summary
+# Table of content
 
-* [Introduction](README.md)
 * [产品介绍](articles/application/1-/prod_intro.md)
     * [概述](articles/application/1-/gai_shu.md)
     * [功能说明](articles/application/1-/functions.md)
