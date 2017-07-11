@@ -8,4 +8,5 @@
     * [功能介绍](articles/application/2-/center_functions.md)
     * [界面说明](articles/application/2-/interface.md)
     * [功能分组](articles/application/2-/function_group.md)	
-* [消息中心](articles/application/3-/message_center.md) 
+* [消息中心](articles/application/3-/center.md) 
+    * [消息中心](articles/application/3-/message_center.md) 
