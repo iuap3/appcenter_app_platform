@@ -1,7 +1,7 @@
 # Table of content
 
 * [产品介绍](articles/application/1-/prod_intro.md)
-    * [概述](articles/application/1-/gai_shu.md)
+    * [产品概述](articles/application/1-/gai_shu.md)
     * [功能说明](articles/application/1-/functions.md)
     * [产品价值](articles/application/1-/values.md)
 * [管理中心](articles/application/2-/manage_center.md)
