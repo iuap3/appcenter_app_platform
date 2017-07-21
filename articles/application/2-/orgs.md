@@ -13,7 +13,8 @@ iuap的组织结构主要包括如下的要素：组织职能、部门、组织�
 
 4、支持多租户隔离
 
-### 业务单元
+## 业务单元
+
 点击管理中心主界面上的【业务单元】，进入组织结构界面，如下图所示：
 
 ![](/articles/application/2-/images/image6.png)  
@@ -24,7 +25,8 @@ iuap的组织结构主要包括如下的要素：组织职能、部门、组织�
 
 ![](/articles/application/2-/images/image7.png)  
  
-### 部门
+## 部门
+
 点击管理中心主界面上的【部门】，进入部门管理界面，如下图所示：
 
 ![](/articles/application/2-/images/image8.png)  
