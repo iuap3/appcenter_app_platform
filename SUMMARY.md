@@ -1,4 +1,4 @@
-# Table of content
+# 互联网应用平台
 
 * [产品介绍](articles/application/1-/prod_intro.md)
     * [产品概述](articles/application/1-/gai_shu.md)
