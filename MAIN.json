@@ -1,0 +1,32 @@
+{ 
+ "title": "互联网应用平台", 
+ "desc": "iuap应用平台基于互联网技术架构，提供企业级通用的互联网应用平台，支撑公有云、独立部署的企业互联
+
+网应用的扩展开发、应用管理、业务动态建模和运行。当iuap应用平台集成惠商云时，可以部署在公有云上，为基于
+
+iuap应用平台开发的应用提供用户、租用、许可等运营支撑能力。基于iuap应用平台，可以让客户把基于企业级业务开
+
+发的各种各样的企业应用管理起来统一运行，并提供底层通用应用，让客户只关注核心领域应用。", 
+ "list": [ 
+ { 
+ "title": "组织管理", 
+ "link": "#/md-build/appcenter_app_platform/articles/application/2-/orgs.md", 
+ "desc": "介绍了组织管理的功能" 
+ }, 
+ { 
+ "title": "权限管理", 
+ "link": "#/md-build/appcenter_app_platform/articles/application/2-/permission.md", 
+ "desc": "介绍了权限管理的功能" 
+ }, 
+ { 
+ "title": "流程中心", 
+ "link": "#/md-build/appcenter_app_platform/articles/application/2-/process_center.md", 
+ "desc": "介绍了流程中心的功能" 
+ }, 
+ { 
+ "title": "消息中心", 
+ "link": "#/md-build/appcenter_app_platform/articles/application/3-/message_center.md", 
+ "desc": "消息中心提供消息管理功能，包括消息查看和搜索" 
+ } 
+ ] 
+ } 
